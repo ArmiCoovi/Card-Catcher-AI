@@ -1,0 +1,7 @@
+{
+  "name": "Card Catcher AI",
+  "description": "An app to scan business cards using your phone's camera and convert them into structured data, ready for your CRM or professional network.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
